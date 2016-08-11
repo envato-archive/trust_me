@@ -6,11 +6,11 @@ describe TrustMe do
   end
 
   let :now do
-    Time.utc 2014, 11, 13, 12, 20, 00
+    Time.utc 2016, 11, 13, 12, 20, 00
   end
 
   let :now_rfc1123 do
-    "Thu, 13 Nov 2014 12:20:00 GMT"
+    "Thu, 13 Nov 2016 12:20:00 GMT"
   end
 
   let :uuid do
