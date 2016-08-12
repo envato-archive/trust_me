@@ -79,4 +79,4 @@ end
 
 ## Copyright
 
-Copyright (c) 2014 WWWH, LLC. See LICENSE for details.
+Copyright (c) 2016 Pressed, LLC. See LICENSE for details.
