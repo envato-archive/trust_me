@@ -1,3 +1,3 @@
 class TrustMe
-  VERSION = Version = "0.2.0"
+  VERSION = Version = "0.3.0"
 end
