@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.files     += Dir["{lib,spec,vendor}/**/*"]
 
   s.add_development_dependency "rspec",       "3.1"
-  s.add_development_dependency "webmock",     "1.20.4"
+  s.add_development_dependency "webmock",     "1.24.6"
   s.add_development_dependency "rake-tomdoc", "0.0.2"
   s.add_development_dependency "rake"
 end
