@@ -205,8 +205,6 @@ class TrustMe
 
     if http.use_ssl?
       http.verify_mode = OpenSSL::SSL::VERIFY_PEER
-      http.cert_store  = OpenSSL::X509::Store.new
-      http.cert_store.add_cert cacert
     end
 
     headers  = generate_headers(options)
