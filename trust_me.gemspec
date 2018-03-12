@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.files      = %w[ Rakefile README.markdown ]
   s.files     += Dir["{lib,spec,vendor}/**/*"]
 
-  s.add_development_dependency "rspec",       "3.1"
+  s.add_development_dependency "rspec",       "3.7.0"
   s.add_development_dependency "webmock",     "1.24.6"
   s.add_development_dependency "rake-tomdoc", "0.0.2"
   s.add_development_dependency "rake",        "12.3.0"
