@@ -10,7 +10,7 @@ describe TrustMe do
   end
 
   let :now_rfc1123 do
-    "Thu, 13 Nov 2016 12:20:00 GMT"
+    "Sun, 13 Nov 2016 12:20:00 GMT"
   end
 
   let :uuid do
