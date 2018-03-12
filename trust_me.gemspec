@@ -15,5 +15,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rspec",       "3.1"
   s.add_development_dependency "webmock",     "1.24.6"
   s.add_development_dependency "rake-tomdoc", "0.0.2"
-  s.add_development_dependency "rake"
+  s.add_development_dependency "rake",        "12.3.0"
 end
